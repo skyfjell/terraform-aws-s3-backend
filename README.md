@@ -15,7 +15,7 @@ Create an S3 backend for Terraform with DynamoDB locking.
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 4.36.1 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | >= 4.0.0, < 5.0.0 |
 
 ## Modules
 
